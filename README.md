@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @ppcia
 - 😀 My job is a front-end engineer...
-- 👀 I’m interested in JavaScript, TypeScript, Vue, React... <a href="https://github.com/anuraghazra/convoychat">
+- 👀 I’m interested in JavaScript, TypeScript, Vue, React... 
+
+<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppcia&layout=compact" />
 </a>
 
